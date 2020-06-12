@@ -1,2 +1,4 @@
-Here we just learn and practice random concepts!!
-You're welcome to contribute.
+
+Quick sort
+Counting Sort
+Bubble sort
